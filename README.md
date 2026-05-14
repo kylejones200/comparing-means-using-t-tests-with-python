@@ -1,7 +1,7 @@
 # Comparing means using T Tests with Python
 
-**Published:** 2023-12-13
-**Medium:** [https://medium.com/@kyle-t-jones/comparing-means-using-t-tests-with-python-bc0572cf4df8](https://medium.com/@kyle-t-jones/comparing-means-using-t-tests-with-python-bc0572cf4df8)
+Published: 2023-12-13
+Medium: [https://medium.com/@kyle-t-jones/comparing-means-using-t-tests-with-python-bc0572cf4df8](https://medium.com/@kyle-t-jones/comparing-means-using-t-tests-with-python-bc0572cf4df8)
 
 ## About
 
